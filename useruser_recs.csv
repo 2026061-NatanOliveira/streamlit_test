@@ -1,0 +1,301 @@
+user_id,rank,book_id,title,authors,predicted_rating
+35820,1,3423,Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth,T. Harv Eker,5.000000000000001
+35820,2,3241,"Crooked Kingdom (Six of Crows, #2)",Leigh Bardugo,5.000000000000001
+35820,3,4221,Big Sur,"Jack Kerouac, Aram Saroyan",5.000000000000001
+35820,4,4344,The Day the Crayons Quit,"Drew Daywalt, Oliver Jeffers",5.000000000000001
+35820,5,4518,"The Power (The Secret, #2)",Rhonda Byrne,5.000000000000001
+35820,6,4658,"Fudge-a-Mania (Fudge, #4)",Judy Blume,5.000000000000001
+35820,7,4841,"The Edge of Always (The Edge of Never, #2)",J.A. Redmerski,5.000000000000001
+35820,8,2864,"Knuffle Bunny: A Cautionary Tale (Knuffle Bunny, #1)",Mo Willems,5.000000000000001
+35820,9,2852,Battle Royale,"Koushun Takami, Yuji Oniki",5.000000000000001
+35820,10,5062,Mr. Perfect,Linda Howard,5.000000000000001
+19600,1,5981,"Unspoken (The Lynburn Legacy, #1)",Sarah Rees Brennan,5.000000000000001
+19600,2,6383,The Glass Lake,Maeve Binchy,5.000000000000001
+19600,3,6784,Ina May's Guide to Childbirth,Ina May Gaskin,5.000000000000001
+19600,4,9504,"The Obelisk Gate (The Broken Earth, #2)",N.K. Jemisin,5.000000000000001
+19600,5,6785,Anne Frank : The Biography,"Melissa Müller, Rita Kimber, Robert Kimber",5.000000000000001
+19600,6,6613,The Heavenly Man: The Remarkable True Story of Chinese Christian Brother Yun,"Paul Hattaway, Brother Yun",5.000000000000001
+19600,7,9183,13 Hours: The Inside Account of What Really Happened In Benghazi,Mitchell Zuckoff,5.000000000000001
+19600,8,7041,"Loyalty in Death (In Death, #9)","J.D. Robb, Susan Ericksen",5.000000000000001
+19600,9,6141,"Harry Potter and the Order of the Phoenix (Harry Potter, #5, Part 1)",J.K. Rowling,5.000000000000001
+19600,10,9061,"Flat Stanley (Flat Stanley, #1)","Jeff Brown, Scott Nash, Macky Pamintuan",5.000000000000001
+20775,1,6703,"A Hidden Fire (Elemental Mysteries, #1)",Elizabeth   Hunter,5.000000000000001
+20775,2,1141,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,5.000000000000001
+20775,3,6620,The Language Instinct: How the Mind Creates Language,Steven Pinker,5.000000000000001
+20775,4,9366,"The Gift (Crown's Spies, #3)",Julie Garwood,5.000000000000001
+20775,5,4690,"Giggle, Giggle, Quack","Doreen Cronin, Betsy Lewin",5.000000000000001
+20775,6,3451,Letters to a Young Poet,"Rainer Maria Rilke, Reginald Snell, Franz Xaver Kappus",5.000000000000001
+20775,7,3753,"Harry Potter Collection (Harry Potter, #1-6)",J.K. Rowling,5.000000000000001
+20775,8,2913,"Claim Me (Stark Trilogy, #2)",J. Kenner,5.000000000000001
+20775,9,3507,"The Gods of Guilt (Mickey Haller, #6; Harry Bosch Universe, #23)",Michael Connelly,5.000000000000001
+20775,10,9838,"The Chronicles of Narnia - The Lion, the Witch, and the Wardrobe Official Illustrated Movie Companion","Perry Moore, Andrew Adamson, C.S. Lewis",5.000000000000001
+4347,1,1355,The Hunger Games Tribute Guide,Emily Seife,5.000000000000002
+4347,2,8247,واحة الغروب,بهاء طاهر,5.000000000000001
+4347,3,6667,"Crave (Fallen Angels, #2)",J.R. Ward,5.000000000000001
+4347,4,2443,"Collide (Collide, #1)",Gail McHugh,5.000000000000001
+4347,5,8028,Anne Frank's Tales from the Secret Annex,"Anne Frank, Susan Massotty",5.000000000000001
+4347,6,9018,August: Osage County,Tracy Letts,5.000000000000001
+4347,7,6704,Stone Butch Blues,Leslie Feinberg,5.000000000000001
+4347,8,6703,"A Hidden Fire (Elemental Mysteries, #1)",Elizabeth   Hunter,5.000000000000001
+4347,9,3633,"Pulse (Collide, #2)",Gail McHugh,5.000000000000001
+4347,10,8668,"The Assassin and the Underworld (Throne of Glass, #0.4)",Sarah J. Maas,5.000000000000001
+6067,1,9862,Nocturnes: Five Stories of Music and Nightfall,Kazuo Ishiguro,5.000000000000001
+6067,2,8753,"The Castle in the Attic (The Castle in the Attic, #1)",Elizabeth Winthrop,5.000000000000001
+6067,3,5951,"Toll the Hounds (The Malazan Book of the Fallen, #8)",Steven Erikson,5.000000000000001
+6067,4,8700,A Charlie Brown Christmas,Charles M. Schulz,5.000000000000001
+6067,5,6056,"Bloody Valentine (Blue Bloods, #5.5)",Melissa de la Cruz,5.000000000000001
+6067,6,7324,"Darkest Powers Trilogy (Darkest Powers, #1-3)",Kelley Armstrong,5.000000000000001
+6067,7,1609,"Eclipse: The Complete Illustrated Movie Companion (The Twilight Saga: The Official Illustrated Movie Companion, #3)",Mark Cotta Vaz,5.000000000000001
+6067,8,8976,Rita Hayworth and Shawshank Redemption: A Story from Different Seasons,Stephen King,5.000000000000001
+6067,9,8640,"Gaudy Night (Lord Peter Wimsey, #12)",Dorothy L. Sayers,5.000000000000001
+6067,10,4827,20th Century Ghosts,"Joe Hill, Christopher Golden",5.000000000000001
+37859,1,8056,"1Q84 #1-2 (1Q84, #1-2)","Haruki Murakami, Jay Rubin",5.000000000000001
+37859,2,8096,Sleeping Beauty Box Set,"A.N. Roquelaure, Anne Rice",5.000000000000001
+37859,3,8602,Mouse Paint,Ellen Stoll Walsh,5.000000000000001
+37859,4,3674,The Power of Intention: Learning to Co-create Your World Your Way,Wayne W. Dyer,5.000000000000001
+37859,5,6962,"The Black Widow (Gabriel Allon, #16)",Daniel Silva,5.000000000000001
+37859,6,8276,The Awakening and Selected Stories,"Kate Chopin, Cynthia Brantley Johnson, Alyssa  Harad",5.000000000000001
+37859,7,3635,Bone: The Complete Edition,Jeff Smith,5.000000000000001
+37859,8,8943,"No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State",Glenn Greenwald,5.000000000000001
+37859,9,5796,The Speed of Trust: The One Thing that Changes Everything,Stephen M.R. Covey,5.000000000000001
+37859,10,5908,A Handful of Dust,Evelyn Waugh,5.000000000000001
+15549,1,2236,Holy Bible: New International Version,Anonymous,5.000000000000002
+15549,2,9687,"Forsaken (The Demon Trappers, #1)",Jana Oliver,5.000000000000001
+15549,3,6889,A Home at the End of the World,Michael Cunningham,5.000000000000001
+15549,4,7404,The Meaning of Marriage: Facing the Complexities of Commitment with the Wisdom of God,"Timothy J. Keller, Kathy  Keller",5.000000000000001
+15549,5,9071,"The Folk of the Faraway Tree (The Faraway Tree, #3)",Enid Blyton,5.000000000000001
+15549,6,4778,The Holy Bible: English Standard Version,Anonymous,5.000000000000001
+15549,7,6795,"A New Song (Mitford Years, #5)",Jan Karon,5.000000000000001
+15549,8,9922,"Sea of Silver Light (Otherland, #4)",Tad Williams,5.000000000000001
+15549,9,4518,"The Power (The Secret, #2)",Rhonda Byrne,5.000000000000001
+15549,10,4523,"The Lions of Lucerne (Scot Harvath, #1)",Brad Thor,5.000000000000001
+7071,1,4207,"The Medusa Plot (39 Clues: Cahills vs. Vespers, #1)",Gordon Korman,5.000000000000001
+7071,2,2795,Archer's Voice,Mia Sheridan,5.000000000000001
+7071,3,4305,"Night Broken (Mercy Thompson, #8)",Patricia Briggs,5.000000000000001
+7071,4,8535,A New Hope  (Star Wars: Novelizations #4),"Alan Dean Foster, George Lucas",5.000000000000001
+7071,5,8392,"Kaleidoscope Hearts (Hearts, #1)",Claire Contreras,5.000000000000001
+7071,6,8982,"Fables, Vol. 10: The Good Prince","Bill Willingham, Mark Buckingham, Steve Leialoha, Aaron Alexovich, Andrew Pepoy",5.000000000000001
+7071,7,6782,Facing Your Giants: A David and Goliath Story for Everyday People,Max Lucado,5.000000000000001
+7071,8,9073,The Flame and the Flower,Kathleen E. Woodiwiss,5.000000000000001
+7071,9,9076,Preach My Gospel: A Guide To Missionary Service,The Church of Jesus Christ of Latter-day Saints,5.000000000000001
+7071,10,8362,Evicted: Poverty and Profit in the American City,Matthew Desmond,5.000000000000001
+31884,1,665,"The Passage (The Passage, #1)",Justin Cronin,5.000000000000001
+31884,2,3216,South of Broad,Pat Conroy,5.000000000000001
+31884,3,3143,The Far Pavilions,M.M. Kaye,5.000000000000001
+31884,4,2864,"Knuffle Bunny: A Cautionary Tale (Knuffle Bunny, #1)",Mo Willems,5.000000000000001
+31884,5,737,A Long Way Gone: Memoirs of a Boy Soldier,Ishmael Beah,5.000000000000001
+31884,6,6057,The Heart of a Woman,Maya Angelou,5.000000000000001
+31884,7,4898,Katherine,"Anya Seton, Philippa Gregory",5.000000000000001
+31884,8,997,The Scarlet Pimpernel,Emmuska Orczy,5.000000000000001
+31884,9,992,"The Twilight Saga (Twilight, #1-4)","Stephenie Meyer, Ilyana Kadushin, Matt Walters",5.000000000000001
+31884,10,1041,The Idiot,"Fyodor Dostoyevsky, Constance Garnett, Alan Myers, Joseph Frank, Anna Brailovsky",5.000000000000001
+42034,1,7824,"Talon of the Silver Hawk (Conclave of Shadows, #1)",Raymond E. Feist,5.000000000000001
+42034,2,8058,"Rock Chick Reckoning (Rock Chick, #6)",Kristen Ashley,5.000000000000001
+42034,3,7982,Hidden Riches,Nora Roberts,5.000000000000001
+42034,4,7319,"Gunmetal Magic (Kate Daniels, #5.5)",Ilona Andrews,5.000000000000001
+42034,5,9566,Attack of the Deranged Mutant Killer Monster Snow Goons,Bill Watterson,5.000000000000001
+42034,6,8362,Evicted: Poverty and Profit in the American City,Matthew Desmond,5.000000000000001
+42034,7,8257,Llama Llama Mad at Mama,Anna Dewdney,5.000000000000001
+42034,8,5212,The Creative License: Giving Yourself Permission to Be The Artist You Truly Are,Danny Gregory,5.000000000000001
+42034,9,7321,"Rock Chick Renegade (Rock Chick, #4)",Kristen Ashley,5.000000000000001
+42034,10,7470,"The Dresden Files:  Storm Front, Volume 1-  The Gathering Storm","Jim Butcher, Mark Powers, Ardian Syaf",5.000000000000001
+24074,1,8395,Mud Vein,Tarryn Fisher,5.000000000000001
+24074,2,9030,"The Billionaire Wins the Game (Billionaire Bachelors, #1)",Melody Anne,5.000000000000001
+24074,3,4241,"Reaper's Property (Reapers MC, #1)",Joanna Wylde,5.000000000000001
+24074,4,7727,"Living Buddha, Living Christ",Thich Nhat Hanh,5.000000000000001
+24074,5,7264,"Master of the Senate (The Years of Lyndon Johnson, #3)",Robert A. Caro,5.000000000000001
+24074,6,7580,"Bone: Quest for the Spark, Vol. 1","Tom Sniegoski, Jeff Smith, Thomas E. Sniegoski, Steve Hamaker",5.000000000000001
+24074,7,5466,"Take a Chance (Rosemary Beach, #7; Chance, #1)",Abbi Glines,5.000000000000001
+24074,8,6026,"Trust in Me (Wait for You, #1.5)","J. Lynn, Jennifer L. Armentrout",5.000000000000001
+24074,9,6426,Loving What Is: Four Questions That Can Change Your Life,"Byron Katie, Stephen Mitchell",5.000000000000001
+24074,10,9401,Avatar Volume 1: The Last Airbender (Avatar #1),"Michael Dante DiMartino, Bryan Konietzko",5.000000000000001
+24574,1,3772,"War and Remembrance (The Henry Family, #2)",Herman Wouk,5.000000000000001
+24574,2,5310,Lord of Light,"Roger Zelazny, Sönmez Güven",5.000000000000001
+24574,3,5464,"The Walking Dead, Vol. 05: The Best Defense","Robert Kirkman, Charlie Adlard, Cliff Rathburn",5.000000000000001
+24574,4,7006,"The Mystery of the Blue Train (Hercule Poirot, #6)",Agatha Christie,5.000000000000001
+24574,5,5411,"Inner Harbor (Chesapeake Bay Saga, #3)",Nora Roberts,5.000000000000001
+24574,6,8379,Hausfrau,Jill Alexander Essbaum,5.000000000000001
+24574,7,5204,"The Walking Dead, Vol. 04: The Heart's Desire","Robert Kirkman, Charlie Adlard, Cliff Rathburn",5.000000000000001
+24574,8,8175,Shalimar the Clown,Salman Rushdie,5.000000000000001
+24574,9,8169,2312,Kim Stanley Robinson,5.000000000000001
+24574,10,5272,"Until November (Until, #1)",Aurora Rose Reynolds,5.000000000000001
+9770,1,8301,"Delusion in Death (In Death, #35)",J.D. Robb,5.000000000000001
+9770,2,6111,"Defiance (Significance, #3)",Shelly Crane,5.000000000000001
+9770,3,7925,Time for Bed,"Mem Fox, Jane Dyer",5.000000000000001
+9770,4,9685,Cape Fear,John D. MacDonald,5.000000000000001
+9770,5,4505,"Beautiful Redemption (The Maddox Brothers, #2)",Jamie McGuire,5.000000000000001
+9770,6,4409,"Predestined (Existence Trilogy, #2)",Abbi Glines,5.000000000000001
+9770,7,6239,"Royal Blood (Vampire Kisses, #6)",Ellen Schreiber,5.000000000000001
+9770,8,9800,Cinderella,"Loek Koopmans, Charles Perrault, Anthea Bell",5.000000000000001
+9770,9,1355,The Hunger Games Tribute Guide,Emily Seife,5.000000000000001
+9770,10,9984,The Snow Leopard,Peter Matthiessen,5.000000000000001
+49106,1,6862,"March: Book One (March, #1)","John             Lewis, Andrew Aydin, Nate Powell",5.000000000000001
+49106,2,6564,War,Sebastian Junger,5.000000000000001
+49106,3,7776,"Destined (Wings, #4)",Aprilynne Pike,5.000000000000001
+49106,4,7291,Change Your Thoughts - Change Your Life: Living the Wisdom of the Tao,Wayne W. Dyer,5.000000000000001
+49106,5,7537,Citizen: An American Lyric,Claudia Rankine,5.000000000000001
+49106,6,9712,"Magic Binds (Kate Daniels, #9)",Ilona Andrews,5.000000000000001
+49106,7,4107,Harry Potter: A Pop-Up Book: Based on the Film Phenomenon,"Andrew Williamson, Andrew Williamson",5.000000000000001
+49106,8,8274,"The Bird and the Sword (The Bird and the Sword Chronicles, #1)",Amy Harmon,5.000000000000001
+49106,9,2966,"Hard Luck (Diary of a Wimpy Kid, #8)",Jeff Kinney,5.000000000000001
+49106,10,7968,Finding the Dream (Dream Trilogy #3),Nora Roberts,5.000000000000001
+5945,1,7016,"Inside, Outside, Upside Down (Berenstain Bears Bright and Early Board Book)","Stan Berenstain, Jan Berenstain",5.000000000000002
+5945,2,5064,"Waking Up Married (Waking Up, #1)",Mira Lyn Kelly,5.000000000000001
+5945,3,4850,Peace Is Every Step: The Path of Mindfulness in Everyday Life,"Thich Nhat Hanh, Arnold Kotler, Dalai Lama XIV",5.000000000000001
+5945,4,9609,"The White Rose (The Chronicles of the Black Company, #3)",Glen Cook,5.000000000000001
+5945,5,4883,The Little Red Hen (Little Golden Book),"Diane Muldrow, J.P. Miller",5.000000000000001
+5945,6,9781,Maid-sama! Vol. 02 (Maid-sama! #2),Hiro Fujiwara,5.000000000000001
+5945,7,4894,Creative Visualization: Use the Power of Your Imagination to Create What You Want in Your Life,Shakti Gawain,5.000000000000001
+5945,8,7732,"Absolute Fear (New Orleans, #4)",Lisa Jackson,5.000000000000001
+5945,9,8859,The Weight of Glory,C.S. Lewis,5.000000000000001
+5945,10,9215,Fugitive Pieces,Anne Michaels,5.000000000000001
+24295,1,9838,"The Chronicles of Narnia - The Lion, the Witch, and the Wardrobe Official Illustrated Movie Companion","Perry Moore, Andrew Adamson, C.S. Lewis",5.000000000000001
+24295,2,9842,Humans of New York: Stories,Brandon Stanton,5.000000000000001
+24295,3,8648,I Love You Through and Through,"Bernadette Rossetti-Shustak, Caroline Jayne Church",5.000000000000001
+24295,4,7774,"Lunch in Paris: A Love Story, with Recipes",Elizabeth Bard,5.000000000000001
+24295,5,8682,Thérèse Raquin,"Émile Zola, Robin Buss",5.000000000000001
+24295,6,6978,Foxe's Book of Martyrs,"John Foxe, W. Grinton Berry",5.000000000000001
+24295,7,7587,Your Best Life Now: 7 Steps to Living at Your Full Potential,Joel Osteen,5.000000000000001
+24295,8,6620,The Language Instinct: How the Mind Creates Language,Steven Pinker,5.000000000000001
+24295,9,6409,From Head to Toe,Eric Carle,5.000000000000001
+24295,10,9367,My Friend Dahmer,Derf Backderf,5.000000000000001
+3286,1,6408,"Beauty Pop, Vol. 1 (Beauty Pop, #1)",Kiyoko Arai,5.000000000000001
+3286,2,8907,The Book on the Taboo Against Knowing Who You Are,Alan W. Watts,5.000000000000001
+3286,3,8958,"Talon (Talon, #1)",Julie Kagawa,5.000000000000001
+3286,4,9870,"Dark River (Warriors: Power of Three, #2)",Erin Hunter,5.000000000000001
+3286,5,6209,"The Lonely Hearts Club (The Lonely Hearts Club, #1)",Elizabeth Eulberg,5.000000000000001
+3286,6,6507,"Deeply Odd (Odd Thomas, #6)",Dean Koontz,5.000000000000001
+3286,7,9838,"The Chronicles of Narnia - The Lion, the Witch, and the Wardrobe Official Illustrated Movie Companion","Perry Moore, Andrew Adamson, C.S. Lewis",5.000000000000001
+3286,8,8956,"One Day at Horrorland (Goosebumps, #16)",R.L. Stine,5.000000000000001
+3286,9,4550,"The Darkest Hour (Warriors, #6)",Erin Hunter,5.000000000000001
+3286,10,8595,"Burn for Me (Hidden Legacy, #1)",Ilona Andrews,5.000000000000001
+13129,1,863,Guess How Much I Love You,"Sam McBratney, Anita Jeram",5.000000000000001
+13129,2,9306,Before I Go,Colleen Oakley,5.000000000000001
+13129,3,2093,The Stand: Soul Survivors,"Roberto Aguirre-Sacasa, Mike Perkins, Laura       Martin, Stephen King",5.000000000000001
+13129,4,7391,"The Assassin and the Pirate Lord (Throne of Glass, #0.1)",Sarah J. Maas,5.000000000000001
+13129,5,9011,Love You to Death: The Unofficial Companion to the Vampire Diaries,Crissy Calhoun,5.000000000000001
+13129,6,2646,Foundation and Earth (Foundation #5),Isaac Asimov,5.000000000000001
+13129,7,3310,Camera Lucida: Reflections on Photography,"Roland Barthes, Richard Howard",5.000000000000001
+13129,8,9222,"Ghost Wars: The Secret History of the CIA, Afghanistan, and bin Laden from the Soviet Invasion to September 10, 2001",Steve Coll,5.000000000000001
+13129,9,9421,"An Incomplete Revenge (Maisie Dobbs, #5)",Jacqueline Winspear,5.000000000000001
+13129,10,8163,Outer Dark,Cormac McCarthy,5.000000000000001
+28209,1,7076,"Deadman Wonderland, Volume 1 (Deadman Wonderland, #1)","Jinsei Kataoka, Kazuma Kondou",5.000000000000001
+28209,2,8451,Praying God's Word: Breaking Free From Spiritual Strongholds,Beth Moore,5.000000000000001
+28209,3,9566,Attack of the Deranged Mutant Killer Monster Snow Goons,Bill Watterson,5.000000000000001
+28209,4,7235,"Afterburn (Jax & Gia, #1)",Sylvia Day,5.000000000000001
+28209,5,9507,Tough Customer (Mitchell & Associates #2),Sandra Brown,5.000000000000001
+28209,6,7470,"The Dresden Files:  Storm Front, Volume 1-  The Gathering Storm","Jim Butcher, Mark Powers, Ardian Syaf",5.000000000000001
+28209,7,9701,Lost Stars (Star Wars: Journey to the Force Awakens),Claudia Gray,5.000000000000001
+28209,8,6032,The Untethered Soul: The Journey Beyond Yourself,Michael A. Singer,5.000000000000001
+28209,9,7533,"Dark Guardian (Dark, #9)",Christine Feehan,5.000000000000001
+28209,10,7623,Adrift: Seventy-Six Days Lost at Sea,Steven Callahan,5.000000000000001
+37755,1,7016,"Inside, Outside, Upside Down (Berenstain Bears Bright and Early Board Book)","Stan Berenstain, Jan Berenstain",5.000000000000001
+37755,2,7970,Close Range,Annie Proulx,5.000000000000001
+37755,3,844,Chicka Chicka Boom Boom,"Bill Martin Jr., John Archambault, Lois Ehlert",5.000000000000001
+37755,4,7088,"The Miracle at Speedy Motors (No.1 Ladies' Detective Agency, #9)",Alexander McCall Smith,5.000000000000001
+37755,5,6903,"A Death in Vienna (Gabriel Allon, #4)",Daniel Silva,5.000000000000001
+37755,6,9744,"Little House on Rocky Ridge (Little House: The Rocky Ridge Years, #1)","Roger Lea MacBride, David Gilleece",5.000000000000001
+37755,7,1619,"The Twilight Saga Complete Collection  (Twilight, #1-4 + 3.5)",Stephenie Meyer,5.000000000000001
+37755,8,7326,Doctors,Erich Segal,5.000000000000001
+37755,9,9587,The Seven Storey Mountain,"Thomas Merton, Robert Giroux, William H. Shannon",5.000000000000001
+37755,10,7108,The Pecan Man,Cassie Dandridge Selleck,5.000000000000001
+26013,1,8870,The Great Brain (Great Brain #1),"John D. Fitzgerald, Mercer Mayer",5.000000000000001
+26013,2,4226,"Into the Still Blue (Under the Never Sky, #3)",Veronica Rossi,5.000000000000001
+26013,3,7705,"Fallen Crest Family (Fallen Crest High, #2)",Tijan,5.000000000000001
+26013,4,8987,Shadow Fires,"Leigh Nichols, Dean Koontz",5.000000000000001
+26013,5,8991,"Fallen Crest Public (Fallen Crest High, #3)",Tijan,5.000000000000001
+26013,6,7765,"Ex-Heroes (Ex-Heroes, #1)",Peter Clines,5.000000000000001
+26013,7,9018,August: Osage County,Tracy Letts,5.000000000000001
+26013,8,9032,The Pragmatic Programmer: From Journeyman to Master,"Andrew Hunt, Dave Thomas",5.000000000000001
+26013,9,7679,"For You (The 'Burg, #1)",Kristen Ashley,5.000000000000001
+26013,10,7016,"Inside, Outside, Upside Down (Berenstain Bears Bright and Early Board Book)","Stan Berenstain, Jan Berenstain",5.000000000000001
+1088,1,9807,"Corrupt (Devil's Night, #1)","Penelope Douglas, Jeremy York, Tatiana Sokolov",5.000000000000001
+1088,2,9525,"Shadows Linger (The Chronicles of the Black Company, #2)",Glen Cook,5.000000000000001
+1088,3,9893,Open Road Summer,Emery Lord,5.000000000000001
+1088,4,8595,"Burn for Me (Hidden Legacy, #1)",Ilona Andrews,5.000000000000001
+1088,5,6224,The World of the Hunger Games (Hunger Games Trilogy),Kate Egan,5.000000000000001
+1088,6,4591,أنت لي,منى المرشود,5.000000000000001
+1088,7,9073,The Flame and the Flower,Kathleen E. Woodiwiss,5.000000000000001
+1088,8,8859,The Weight of Glory,C.S. Lewis,5.000000000000001
+1088,9,9183,13 Hours: The Inside Account of What Really Happened In Benghazi,Mitchell Zuckoff,5.000000000000001
+1088,10,7005,"Rock Chick Redemption (Rock Chick, #3)",Kristen Ashley,5.0
+6016,1,5978,Pedagogy of the Oppressed,"Paulo Freire, Myra Bergman Ramos, Donaldo Macedo, Richard Shaull",5.000000000000001
+6016,2,2115,Black Hawk Down,Mark Bowden,5.000000000000001
+6016,3,9778,Captain Blood,Rafael Sabatini,5.000000000000001
+6016,4,7287,"Catering to Nobody (A Goldy Bear Culinary Mystery, #1)",Diane Mott Davidson,5.000000000000001
+6016,5,7216,Dear Zoo: A Lift-the-Flap Book,Rod Campbell,5.000000000000001
+6016,6,7258,"To Green Angel Tower, Part 1 (Memory, Sorrow, and Thorn, #3; Part 1)",Tad Williams,5.000000000000001
+6016,7,7270,The Death of Superman,"Dan Jurgens, Jerry Ordway, Louise Simonson, Roger Stern, Jon Bogdanove, Tom Grummett, Jackson Butch Guice, Brett Breeding, Rick Burchett, Doug Hazlewood, Dennis Janke, Denis Rodier",5.000000000000001
+6016,8,4325,"The Walking Dead, Vol. 03: Safety Behind Bars","Robert Kirkman, Charlie Adlard",5.000000000000001
+6016,9,4169,Fix-It and Forget-It Cookbook: Feasting with Your Slow Cooker,"Dawn J. Ranck, Phyllis Pellman Good",5.000000000000001
+6016,10,7085,"Futures and Frosting (Chocolate Lovers, #2)",Tara Sivec,5.000000000000001
+34620,1,6214,"The Divergent Series 2-Book Collection (Divergent, #1-2)",Veronica Roth,5.000000000000001
+34620,2,5618,"Turbo Twenty-Three (Stephanie Plum, #23)",Janet Evanovich,5.000000000000001
+34620,3,3749,"Sweet Peril (Sweet, #2)",Wendy Higgins,5.000000000000001
+34620,4,7235,"Afterburn (Jax & Gia, #1)",Sylvia Day,5.000000000000001
+34620,5,8822,"Concealed in Death (In Death, #38)",J.D. Robb,5.000000000000001
+34620,6,7317,Private Peaceful,Michael Morpurgo,5.000000000000001
+34620,7,8257,Llama Llama Mad at Mama,Anna Dewdney,5.000000000000001
+34620,8,7284,Sweethearts,Sara Zarr,5.000000000000001
+34620,9,9298,The Case of Charles Dexter Ward,H.P. Lovecraft,5.000000000000001
+34620,10,7510,"One More Chance (Rosemary Beach, #8; Chance, #2)",Abbi Glines,5.000000000000001
+8722,1,9343,"The Wheel of Time: Boxed Set  (Wheel of Time, #1-8)",Robert Jordan,5.000000000000001
+8722,2,4778,The Holy Bible: English Standard Version,Anonymous,5.000000000000001
+8722,3,7317,Private Peaceful,Michael Morpurgo,5.000000000000001
+8722,4,7824,"Talon of the Silver Hawk (Conclave of Shadows, #1)",Raymond E. Feist,5.000000000000001
+8722,5,8669,If You Give a Cat a Cupcake,"Laura Joffe Numeroff, Felicia Bond",5.000000000000001
+8722,6,8257,Llama Llama Mad at Mama,Anna Dewdney,5.000000000000001
+8722,7,9733,"Darker After Midnight (Midnight Breed, #10)",Lara Adrian,5.000000000000001
+8722,8,7517,Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher,Richard Feynman,5.000000000000001
+8722,9,5074,"Tokyo Ghoul, tome 1 (Tokyo Ghoul, #1)","Sui Ishida, 石田 スイ",5.000000000000001
+8722,10,8901,Shadows of the Workhouse,Jennifer Worth,5.000000000000001
+28619,1,5919,Life Application Study Bible: NIV,"Anonymous, Ronald A. Beers, Ronald A. Beers",5.000000000000001
+28619,2,8669,If You Give a Cat a Cupcake,"Laura Joffe Numeroff, Felicia Bond",5.000000000000001
+28619,3,8911,"The Blood Mirror (Lightbringer, #4)",Brent Weeks,5.000000000000001
+28619,4,8362,Evicted: Poverty and Profit in the American City,Matthew Desmond,5.000000000000001
+28619,5,8065,Another Brooklyn,Jacqueline Woodson,5.000000000000001
+28619,6,8351,"The Darkest Hour (KGI, #1)",Maya Banks,5.000000000000001
+28619,7,7947,ESV Study Bible,"Anonymous, Lane T. Dennis, Wayne A. Grudem",5.000000000000001
+28619,8,8058,"Rock Chick Reckoning (Rock Chick, #6)",Kristen Ashley,5.000000000000001
+28619,9,7321,"Rock Chick Renegade (Rock Chick, #4)",Kristen Ashley,5.000000000000001
+28619,10,9377,"No Place to Run (KGI, #2)",Maya Banks,5.000000000000001
+38242,1,5845,The Proper Care and Feeding of Husbands,Laura C. Schlessinger,5.000000000000001
+38242,2,2748,"Grounded (Up in the Air, #3)",R.K. Lilley,5.000000000000001
+38242,3,9018,August: Osage County,Tracy Letts,5.000000000000001
+38242,4,8589,Memórias Póstumas de Brás Cubas,Machado de Assis,5.000000000000001
+38242,5,6564,War,Sebastian Junger,5.000000000000001
+38242,6,6366,Stitches,David Small,5.000000000000001
+38242,7,4409,"Predestined (Existence Trilogy, #2)",Abbi Glines,5.000000000000001
+38242,8,6905,Notorious RBG: The Life and Times of Ruth Bader Ginsburg,"Irin Carmon, Shana Knizhnik",5.000000000000001
+38242,9,3040,"Because of Low (Sea Breeze, #2)",Abbi Glines,5.000000000000001
+38242,10,9944,Give and Take: A Revolutionary Approach to Success,Adam M. Grant,5.000000000000001
+48882,1,7035,House of Suns,Alastair Reynolds,5.000000000000001
+48882,2,6708,A Fish Out of Water,"Helen Marion Palmer, P.D. Eastman",5.000000000000001
+48882,3,6704,Stone Butch Blues,Leslie Feinberg,5.000000000000001
+48882,4,6564,War,Sebastian Junger,5.000000000000001
+48882,5,9298,The Case of Charles Dexter Ward,H.P. Lovecraft,5.000000000000001
+48882,6,9011,Love You to Death: The Unofficial Companion to the Vampire Diaries,Crissy Calhoun,5.000000000000001
+48882,7,8301,"Delusion in Death (In Death, #35)",J.D. Robb,5.000000000000001
+48882,8,7816,"The Rose and the Thorn (The Riyria Chronicles, #2)",Michael J. Sullivan,5.000000000000001
+48882,9,5919,Life Application Study Bible: NIV,"Anonymous, Ronald A. Beers, Ronald A. Beers",5.000000000000001
+48882,10,7834,"The Witch With No Name (The Hollows, #13)",Kim Harrison,5.000000000000001
+29895,1,8562,"Gentle Rogue (Malory-Anderson Family, #3)",Johanna Lindsey,5.000000000000001
+29895,2,7502,"Dragon Flight (Dragon Slippers, #2)",Jessica Day George,5.000000000000001
+29895,3,8449,Wench,Dolen Perkins-Valdez,5.000000000000001
+29895,4,8907,The Book on the Taboo Against Knowing Who You Are,Alan W. Watts,5.000000000000001
+29895,5,5212,The Creative License: Giving Yourself Permission to Be The Artist You Truly Are,Danny Gregory,5.000000000000001
+29895,6,6214,"The Divergent Series 2-Book Collection (Divergent, #1-2)",Veronica Roth,5.000000000000001
+29895,7,7218,"The Lost Stories (Ranger's Apprentice, #11)",John Flanagan,5.000000000000001
+29895,8,7587,Your Best Life Now: 7 Steps to Living at Your Full Potential,Joel Osteen,5.000000000000001
+29895,9,7291,Change Your Thoughts - Change Your Life: Living the Wisdom of the Tao,Wayne W. Dyer,5.000000000000001
+29895,10,9047,"The Search (Eve Duncan, #3)",Iris Johansen,5.000000000000001
+21114,1,10000,The First World War,John Keegan,5.000000000000001
+21114,2,9992,"The Red Knight (The Traitor Son Cycle, #1)",Miles  Cameron,5.000000000000001
+21114,3,7774,"Lunch in Paris: A Love Story, with Recipes",Elizabeth Bard,5.000000000000001
+21114,4,7776,"Destined (Wings, #4)",Aprilynne Pike,5.000000000000001
+21114,5,5597,"The Jewel (The Lone City, #1)",Amy Ewing,5.000000000000001
+21114,6,7613,"Chasing the Prophecy (Beyonders, #3)",Brandon Mull,5.000000000000001
+21114,7,7502,"Dragon Flight (Dragon Slippers, #2)",Jessica Day George,5.000000000000001
+21114,8,8084,Naked Economics: Undressing the Dismal Science,Charles Wheelan,5.000000000000001
+21114,9,4461,"Nemesis Games (The Expanse, #5)",James S.A. Corey,5.000000000000001
+21114,10,7197,"The Providence of Fire (Chronicle of the Unhewn Throne, #2)",Brian Staveley,5.000000000000001

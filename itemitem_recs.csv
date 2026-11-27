@@ -1,0 +1,301 @@
+user_id,rank,book_id,title,authors,predicted_rating
+35820,1,6244,"Dragon Slippers (Dragon Slippers, #1)",Jessica Day George,5.000000000000001
+35820,2,5710,"Twice Tempted (Night Prince, #2)",Jeaniene Frost,5.000000000000001
+35820,3,8631,The Matlock Paper,Robert Ludlum,5.0
+35820,4,8514,I'll Be Seeing You,Mary Higgins Clark,5.0
+35820,5,5325,"No god but God: The Origins, Evolution and Future of Islam",Reza Aslan,5.0
+35820,6,8601,The Art of Thinking Clearly,Rolf Dobelli,5.0
+35820,7,7818,"Frostbitten (Women of the Otherworld, #10)",Kelley Armstrong,5.0
+35820,8,7174,"Finally (Willow Falls, #2)",Wendy Mass,5.0
+35820,9,6379,Rise of the Governor (The Walking Dead #1),"Robert Kirkman, Jay Bonansinga",5.0
+35820,10,9417,"Skippyjon Jones in Mummy Trouble (Skippyjon Jones, #3)",Judy Schachner,5.0
+19600,1,7697,"The Captive Part II / The Power (The Secret Circle, #2-3)",L.J. Smith,5.0
+19600,2,9927,Thank You for Smoking,Christopher Buckley,5.0
+19600,3,9701,Lost Stars (Star Wars: Journey to the Force Awakens),Claudia Gray,5.0
+19600,4,4562,"Darkest Mercy (Wicked Lovely, #5)",Melissa Marr,5.0
+19600,5,8132,"The Forest House (Avalon, #2)","Marion Zimmer Bradley, Diana L. Paxson",4.7849512894641
+19600,6,6717,"The Morganville Vampires, Volume 3 (The Morganville Vampires, #5-6)",Rachel Caine,4.6865268181381525
+19600,7,6403,Night World: The Ultimate Fan Guide,"Annette Pollert, L.J. Smith",4.6865268181381525
+19600,8,2593,"Stargazer (Evernight, #2)",Claudia Gray,4.686526818138152
+19600,9,8530,"The Fallen and Leviathan (The Fallen, #1-2)",Thomas E. Sniegoski,4.686526818138152
+19600,10,6224,The World of the Hunger Games (Hunger Games Trilogy),Kate Egan,4.686526818138152
+20775,1,8785,"Thankless in Death (In Death, #37)",J.D. Robb,5.000000000000001
+20775,2,9978,The Sailor Who Fell from Grace with the Sea,"Yukio Mishima, John Nathan",5.000000000000001
+20775,3,8604,Edvard Munch: 1863-1944 (Basic Art),Ulrich Bischoff,5.000000000000001
+20775,4,8933,"Red Notice: A True Story of High Finance, Murder, and One Man’s Fight for Justice",Bill Browder,5.000000000000001
+20775,5,8903,One Up On Wall Street: How To Use What You Already Know To Make Money In The Market,"Peter Lynch, John Rothchild",5.000000000000001
+20775,6,8587,"The Shadow Throne (The Ascendance Trilogy, #3)",Jennifer A. Nielsen,5.000000000000001
+20775,7,8573,The Catastrophic History of You and Me,Jess Rothenberg,5.000000000000001
+20775,8,4495,Do-It-Yourself Book (Diary of a Wimpy Kid),Jeff Kinney,5.000000000000001
+20775,9,4318,More Than This,Patrick Ness,5.000000000000001
+20775,10,8498,HHhH,Laurent Binet,5.000000000000001
+4347,1,9687,"Forsaken (The Demon Trappers, #1)",Jana Oliver,5.000000000000001
+4347,2,6268,"Beautiful Broken Rules (Broken, #1)",Kimberly Lauren,5.000000000000001
+4347,3,8263,2 ضباط,Essam Youssef,5.000000000000001
+4347,4,5852,The Mothers,Brit Bennett,5.0
+4347,5,5856,"Accordance (Significance, #2)",Shelly Crane,5.0
+4347,6,9572,Love Left Behind,S.H. Kolee,5.0
+4347,7,7740,"Tales from a Not-So-Happy Heartbreaker (Dork Diaries, #6)",Rachel Renée Russell,5.0
+4347,8,7472,السنجة,أحمد خالد توفيق,5.0
+4347,9,9678,"Tempting the Player (Gamble Brothers, #2)","J. Lynn, Jennifer L. Armentrout",5.0
+4347,10,9445,بضع ساعات في يوم ما,محمد صادق,5.0
+6067,1,5393,"The Initiate (Divergent, #0.2)",Veronica Roth,5.000000000000002
+6067,2,3150,"Mystery Man (Dream Man, #1)",Kristen Ashley,5.000000000000001
+6067,3,6977,The Mortal Instruments (The Mortal Instruments #1-4),Cassandra Clare,5.000000000000001
+6067,4,8344,"Dominic (Slater Brothers, #1)",L.A. Casey,5.000000000000001
+6067,5,7255,"Surrender Your Love (Surrender Your Love, #1)",J.C. Reed,5.000000000000001
+6067,6,8251,"Starlight (Warriors: The New Prophecy, #4)",Erin Hunter,5.000000000000001
+6067,7,9870,"Dark River (Warriors: Power of Three, #2)",Erin Hunter,5.000000000000001
+6067,8,7533,"Dark Guardian (Dark, #9)",Christine Feehan,5.000000000000001
+6067,9,7367,"Tempting the Best Man (Gamble Brothers, #1)","J. Lynn, Jennifer L. Armentrout",5.000000000000001
+6067,10,3783,"Eve (Eve, #1)",Anna Carey,5.000000000000001
+37859,1,9167,"Where I Belong (Alabama Summer, #1)",J.  Daniels,5.0
+37859,2,9181,The Girl from Krakow,Alex Rosenberg,5.0
+37859,3,9280,Eleanor of Aquitaine: A Life ,Alison Weir,5.0
+37859,4,8987,Shadow Fires,"Leigh Nichols, Dean Koontz",5.0
+37859,5,8259,Graffiti World: Street Art from Five Continents,"Nicholas Ganz, Tristan Manco",5.0
+37859,6,8297,Long Time Coming,Edie Claire,5.0
+37859,7,9745,"Not Quite Dating (Not Quite, #1)",Catherine Bybee,4.919903666673855
+37859,8,9099,"Until Lilly (Until, #3)",Aurora Rose Reynolds,4.8979616104735495
+37859,9,9467,"Night Owl (Night Owl, #1)",M. Pierce,4.868294004020883
+37859,10,9683,صانع الظلام,تامر إبراهيم,4.819562331211738
+15549,1,8089,"Until Trevor (Until, #2)",Aurora Rose Reynolds,5.000000000000001
+15549,2,9572,Love Left Behind,S.H. Kolee,5.000000000000001
+15549,3,9543,"Disastrous (Disastrous, #1)",E.L. Montes,5.000000000000001
+15549,4,9535,"Until Nico (Until, #4)",Aurora Rose Reynolds,5.000000000000001
+15549,5,9108,"Taking Shots (Assassins, #1)",Toni Aleo,5.0
+15549,6,9099,"Until Lilly (Until, #3)",Aurora Rose Reynolds,5.0
+15549,7,5272,"Until November (Until, #1)",Aurora Rose Reynolds,5.0
+15549,8,5228,Developing the Leader Within You,John C. Maxwell,5.0
+15549,9,9275,See You at the Top,"Zig Ziglar, Al Mayton",5.0
+15549,10,9315,The King's Agent,Donna Russo Morin,5.0
+7071,1,9109,"Sweet Addiction (Sweet Addiction, #1)",J.  Daniels,5.000000000000001
+7071,2,6930,"Reaper's Legacy (Reapers MC, #2)",Joanna Wylde,5.0
+7071,3,7740,"Tales from a Not-So-Happy Heartbreaker (Dork Diaries, #6)",Rachel Renée Russell,5.0
+7071,4,7772,Big Rock,Lauren Blakely,5.0
+7071,5,8769,"Devil's Game (Reapers MC, #3)",Joanna Wylde,5.0
+7071,6,8402,"Archangel's Blade (Guild Hunter, #4)",Nalini Singh,5.0
+7071,7,7712,"Special A, Vol. 1 (Special A, #1)",Maki Minami,5.0
+7071,8,9701,Lost Stars (Star Wars: Journey to the Force Awakens),Claudia Gray,5.0
+7071,9,7206,"Stars of Fortune (The Guardians Trilogy, #1)",Nora Roberts,5.0
+7071,10,9046,"Hot Ticket (Sinners on Tour, #3)",Olivia Cunning,5.0
+31884,1,992,"The Twilight Saga (Twilight, #1-4)","Stephenie Meyer, Ilyana Kadushin, Matt Walters",5.000000000000002
+31884,2,2183,"Love Unscripted (Love, #1)",Tina Reber,5.000000000000002
+31884,3,806,"Wizard and Glass (The Dark Tower, #4)","Stephen King, Dave McKean",5.000000000000002
+31884,4,1039,"Pride and Prejudice and Zombies (Pride and Prejudice and Zombies, #1)","Seth Grahame-Smith, Jane Austen",5.000000000000002
+31884,5,1968,"Peter and the Starcatchers (Peter and the Starcatchers, #1)","Dave Barry, Ridley Pearson, Greg Call",5.000000000000002
+31884,6,161,"The Return of the King (The Lord of the Rings, #3)",J.R.R. Tolkien,5.000000000000002
+31884,7,3992,"Found (The Missing, #1)",Margaret Peterson Haddix,5.000000000000002
+31884,8,7268,"Port Mortuary (Kay Scarpetta, #18)",Patricia Cornwell,5.000000000000002
+31884,9,4216,Sacré Bleu: A Comedy d'Art,Christopher Moore,5.000000000000002
+31884,10,6416,"Sweet Filthy Boy (Wild Seasons, #1)",Christina Lauren,5.000000000000002
+42034,1,5205,"The Stonekeeper's Curse (Amulet, #2)",Kazu Kibuishi,5.000000000000001
+42034,2,9886,"13 Gifts (Willow Falls, #3)",Wendy Mass,5.0
+42034,3,7740,"Tales from a Not-So-Happy Heartbreaker (Dork Diaries, #6)",Rachel Renée Russell,5.0
+42034,4,9873,"The Last Council (Amulet, #4)",Kazu Kibuishi,5.0
+42034,5,9378,"The Dragonslayer (Bone, #4)","Jeff Smith, Steve Hamaker",5.0
+42034,6,9560,"Relentless (The Lost Fleet, #5)",Jack Campbell,5.0
+42034,7,9570,المانيفستو,مصطفى إبراهيم,5.0
+42034,8,9573,Keep Holding On,Susane Colasanti,5.0
+42034,9,9531,Crush,Richard Siken,5.0
+42034,10,9989,"Out of the Dark (The Grey Wolves, #4)",Quinn Loftis,5.0
+24074,1,7221,"Eeny Meeny (Helen Grace, #1)",M.J. Arlidge,5.0
+24074,2,5111,Bossman,Vi Keeland,5.0
+24074,3,9167,"Where I Belong (Alabama Summer, #1)",J.  Daniels,5.0
+24074,4,9561,The Nose,"Nikolai Gogol, Kevin Hawkes",5.0
+24074,5,9873,"The Last Council (Amulet, #4)",Kazu Kibuishi,5.0
+24074,6,9412,"Bound by Honor (Born in Blood Mafia Chronicles, #1)",Cora Reilly,4.743272531658831
+24074,7,8381,"Truthwitch (The Witchlands, #1)",Susan Dennard,4.732922817627976
+24074,8,5074,"Tokyo Ghoul, tome 1 (Tokyo Ghoul, #1)","Sui Ishida, 石田 スイ",4.725820423963825
+24074,9,9858,هشت کتاب,سهراب سپهری,4.6901999531585306
+24074,10,9460,Too Loud a Solitude,Bohumil Hrabal,4.675312058029845
+24574,1,5212,The Creative License: Giving Yourself Permission to Be The Artist You Truly Are,Danny Gregory,5.000000000000001
+24574,2,7237,Influx,Daniel Suarez,5.000000000000001
+24574,3,7509,"Pacific Vortex! (Dirk Pitt, #1)","Clive Cussler, Michael Pritchard",5.000000000000001
+24574,4,9929,زغازيغ,أحمد خالد توفيق,5.000000000000001
+24574,5,8102,"Brotherhood in Death (In Death, #42)",J.D. Robb,5.000000000000001
+24574,6,7000,كخه يا بابا,عبدالله المغلوث,5.0
+24574,7,8685,Behind Her Eyes,Sarah Pinborough,5.0
+24574,8,6708,A Fish Out of Water,"Helen Marion Palmer, P.D. Eastman",5.0
+24574,9,9533,Reservation Blues,Sherman Alexie,5.0
+24574,10,9306,Before I Go,Colleen Oakley,5.0
+9770,1,2292,ساق البامبو,"سعود السنعوسي, Saud Alsanousi",5.0
+9770,2,9858,هشت کتاب,سهراب سپهری,5.0
+9770,3,7937,باب الخروج: رسالة علي المفعمة ببهجة غير متوقعة,عزالدين شكري فشير,5.0
+9770,4,1787,هيبتا,محمد صادق,5.0
+9770,5,5002,في ديسمبر تنتهي كل الأحلام,أثير عبدالله النشمي,5.0
+9770,6,9181,The Girl from Krakow,Alex Rosenberg,5.0
+9770,7,9306,Before I Go,Colleen Oakley,5.0
+9770,8,8263,2 ضباط,Essam Youssef,5.0
+9770,9,3104,Lincoln,David Herbert Donald,4.9533576500621885
+9770,10,9359,Rubicon: The Last Years of the Roman Republic,Tom Holland,4.889783726014245
+49106,1,9046,"Hot Ticket (Sinners on Tour, #3)",Olivia Cunning,5.000000000000001
+49106,2,9619,"Bad Romeo (Starcrossed, #1)",Leisa Rayven,5.000000000000001
+49106,3,9570,المانيفستو,مصطفى إبراهيم,5.000000000000001
+49106,4,7196,The Baller: A Down and Dirty Football Novel,Vi Keeland,5.000000000000001
+49106,5,9258,"Double Time (Sinners on Tour, #5)",Olivia Cunning,5.000000000000001
+49106,6,5228,Developing the Leader Within You,John C. Maxwell,5.000000000000001
+49106,7,6983,"Forever Mine (The Moreno Brothers, #1)",Elizabeth Reyes,5.000000000000001
+49106,8,9904,"Hard as It Gets (Hard Ink, #1)",Laura Kaye,5.0
+49106,9,9771,Those Girls,Chevy Stevens,5.0
+49106,10,9340,Tell Me Three Things,Julie Buxbaum,5.0
+5945,1,7174,"Finally (Willow Falls, #2)",Wendy Mass,5.000000000000001
+5945,2,9934,Nourishing Traditions: The Cookbook That Challenges Politically Correct Nutrition and the Diet Dictocrats,Sally Fallon Morell,5.000000000000001
+5945,3,6770,Lullabies for Little Criminals,Heather O'Neill,5.0
+5945,4,8204,"The Unwanted Wife (Unwanted, #1)",Natasha Anders,5.0
+5945,5,8014,"Psycho-Cybernetics, A New Way to Get More Living Out of Life",Maxwell Maltz,5.0
+5945,6,9382,"Claimed By Shadow (Cassandra Palmer, #2)",Karen Chance,5.0
+5945,7,5353,The Wimpy Kid Movie Diary (Diary of a Wimpy Kid),Jeff Kinney,5.0
+5945,8,8259,Graffiti World: Street Art from Five Continents,"Nicholas Ganz, Tristan Manco",5.0
+5945,9,5529,Antifragile: Things That Gain from Disorder,Nassim Nicholas Taleb,4.9252421678398015
+5945,10,9190,"City of Bones / City of Ashes / City of Glass / City of Fallen Angels / City of Lost Souls (The Mortal Instruments, #1-5)",Cassandra Clare,4.810229591435452
+24295,1,8812,Maitreyi,Mircea Eliade,5.000000000000001
+24295,2,9919,Nothing's Fair in Fifth Grade,Barthe DeClements,5.000000000000001
+24295,3,8194,"The Death of Kings (Emperor, #2)",Conn Iggulden,5.000000000000001
+24295,4,8296,Awakening the Buddha Within: Tibetan Wisdom for the Western World,Lama Surya Das,5.000000000000001
+24295,5,8144,Hidden (Bone Secrets. #1),Kendra Elliot,5.000000000000001
+24295,6,3499,The Natural Way to Draw,"Kimon Nicolaides, Mamie Harmon",5.000000000000001
+24295,7,9479,Manga Classics: Les Misérables,"Stacy King, SunNeko Lee, Crystal S. Chan, Victor Hugo",5.000000000000001
+24295,8,7472,السنجة,أحمد خالد توفيق,5.000000000000001
+24295,9,6159,"Cross Justice (Alex Cross, #23)",James Patterson,5.000000000000001
+24295,10,9610,"""حكايات فرغلي المستكاوي ""حكايتى مع كفر السحلاوية",حسن الجندي,5.000000000000001
+3286,1,8344,"Dominic (Slater Brothers, #1)",L.A. Casey,5.000000000000001
+3286,2,7381,"Beautiful Beginning (Beautiful Bastard, #3.5)",Christina Lauren,5.0
+3286,3,8164,"Endless Knight (The Arcana Chronicles, #2)",Kresley Cole,5.0
+3286,4,6930,"Reaper's Legacy (Reapers MC, #2)",Joanna Wylde,5.0
+3286,5,9836,"Tyrant (King, #2)",T.M. Frazier,5.0
+3286,6,8642,"Rival (Fall Away, #2)","Penelope Douglas, Abby Craden, Nelson Hobbs",5.0
+3286,7,6927,The Grand Sophy,Georgette Heyer,5.0
+3286,8,9889,"Overruled (The Legal Briefs, #1)",Emma Chase,5.0
+3286,9,9817,Vampires are Forever (Argeneau #8),Lynsay Sands,5.0
+3286,10,9816,Neighbor Dearest,Penelope Ward,5.0
+13129,1,8595,"Burn for Me (Hidden Legacy, #1)",Ilona Andrews,5.000000000000001
+13129,2,6928,The Road to Serfdom,Friedrich A. Hayek,5.000000000000001
+13129,3,8368,Deep and Dark and Dangerous (A Ghost Story),Mary Downing Hahn,5.000000000000001
+13129,4,3201,The Warlord Wants Forever (Immortals After Dark #1),Kresley Cole,5.000000000000001
+13129,5,2998,"Magic Bleeds (Kate Daniels, #4)",Ilona Andrews,5.000000000000001
+13129,6,9653,"The Elvenbane (Halfblood Chronicles, #1)","Andre Norton, Mercedes Lackey",5.000000000000001
+13129,7,9681,"Crow's Row (Crow's Row, #1)",Julie Hockley,5.000000000000001
+13129,8,4679,A Quick Bite (Argeneau #1),Lynsay Sands,5.000000000000001
+13129,9,9929,زغازيغ,أحمد خالد توفيق,5.0
+13129,10,5850,"Club Shadowlands (Masters of the Shadowlands, #1)",Cherise Sinclair,5.0
+28209,1,8855,"Screw It, Let's Do It: Lessons In Life",Richard Branson,4.635798718622933
+28209,2,5808,Hey Nostradamus!,Douglas Coupland,4.512426005287582
+28209,3,7028,How Will You Measure Your Life?,"Clayton M. Christensen, James Allworth, Karen Dillon",4.46531212194956
+28209,4,3659,The Revenant,Michael Punke,4.422731498148599
+28209,5,5065,No Time for Goodbye (No Time For Goodbye #1),Linwood Barclay,4.395403647746196
+28209,6,5930,Boy's Life,Robert McCammon,4.3937524323560595
+28209,7,7026,The Difference Engine ,"William Gibson, Bruce Sterling",4.389454418590308
+28209,8,5254,Replay,Ken Grimwood,4.365819565084769
+28209,9,9783,"Batman, Volume 3: Death of the Family","Scott Snyder, Greg Capullo, Jonathan Glapion",4.333738709844284
+28209,10,4341,The Undercover Economist,Tim Harford,4.32400521355499
+37755,1,9537,Plenty,Yotam Ottolenghi,5.000000000000001
+37755,2,9886,"13 Gifts (Willow Falls, #3)",Wendy Mass,5.0
+37755,3,9041,"Unattainable (Undeniable, #3)",Madeline Sheehan,5.0
+37755,4,9799,"The Space Between (Outlander, #7.5)",Diana Gabaldon,5.0
+37755,5,9693,"Forever You (Forever, #2)",Sandi Lynn,5.0
+37755,6,6493,"Axel (Corps Security, #1)",Harper Sloan,5.0
+37755,7,6415,"The Game Changer (The Perfect Game, #2)",J. Sterling,5.0
+37755,8,9760,"The Covenant (Abram's Daughters, #1)",Beverly  Lewis,5.0
+37755,9,3017,"Beauty from Pain (Beauty, #1)",Georgia Cates,5.0
+37755,10,9030,"The Billionaire Wins the Game (Billionaire Bachelors, #1)",Melody Anne,5.0
+26013,1,9807,"Corrupt (Devil's Night, #1)","Penelope Douglas, Jeremy York, Tatiana Sokolov",5.000000000000001
+26013,2,5111,Bossman,Vi Keeland,5.000000000000001
+26013,3,6927,The Grand Sophy,Georgette Heyer,5.000000000000001
+26013,4,9705,The Lake (The Lake Trilogy #1),AnnaLisa Grant,5.0
+26013,5,5228,Developing the Leader Within You,John C. Maxwell,5.0
+26013,6,6874,Caressed by Ice (Psy-Changeling #3),Nalini Singh,5.0
+26013,7,6145,The Wall of Winnipeg and Me,Mariana Zapata,5.0
+26013,8,9886,"13 Gifts (Willow Falls, #3)",Wendy Mass,5.0
+26013,9,9904,"Hard as It Gets (Hard Ink, #1)",Laura Kaye,5.0
+26013,10,9548,"Vicious (Sinners of Saint, #1)",L.J. Shen,5.0
+1088,1,9762,Rich Dad's Guide to Investing: What the Rich Invest in That the Poor and Middle Class Do Not!,"Robert T. Kiyosaki, Sharon L. Lechter",5.0
+1088,2,9678,"Tempting the Player (Gamble Brothers, #2)","J. Lynn, Jennifer L. Armentrout",5.0
+1088,3,9619,"Bad Romeo (Starcrossed, #1)",Leisa Rayven,5.0
+1088,4,9419,"The Boy Who Came Back from Heaven: A Remarkable Account of Miracles, Angels, and Life beyond This World","Kevin Malarkey, Alex Malarkey",5.0
+1088,5,9153,"If I Die (Soul Screamers, #5)",Rachel Vincent,5.0
+1088,6,9275,See You at the Top,"Zig Ziglar, Al Mayton",5.0
+1088,7,5111,Bossman,Vi Keeland,5.0
+1088,8,9181,The Girl from Krakow,Alex Rosenberg,5.0
+1088,9,9380,"A Week to Be Wicked (Spindle Cove, #2)",Tessa Dare,5.0
+1088,10,8918,"Rock Chick Revolution (Rock Chick, #8)",Kristen Ashley,5.0
+6016,1,9967,الحرافيش,"Naguib Mahfouz, نجيب محفوظ",5.000000000000001
+6016,2,9936,The Bridge Across Forever: A True Love Story,Richard Bach,5.000000000000001
+6016,3,7962,"The Submissive (Submissive, #1)",Tara Sue Me,5.000000000000001
+6016,4,5373,بيكاسو وستاربكس,ياسر حارب,5.000000000000001
+6016,5,8607,"The Killing (Cherub, #4)",Robert Muchamore,5.000000000000001
+6016,6,7130,Let's Pretend This Never Happened (Dear Dumb Diary #1),Jim Benton,5.000000000000001
+6016,7,6415,"The Game Changer (The Perfect Game, #2)",J. Sterling,5.000000000000001
+6016,8,5859,"Tales from a Not-So-Smart Miss Know-It-All (Dork Diaries, #5)",Rachel Renée Russell,5.000000000000001
+6016,9,9356,"Gut gegen Nordwind (Gut gegen Nordwind, #1)",Daniel Glattauer,5.000000000000001
+6016,10,7851,"The Apostle (Scot Harvath, #8)",Brad Thor,5.0
+34620,1,8918,"Rock Chick Revolution (Rock Chick, #8)",Kristen Ashley,5.000000000000002
+34620,2,9695,"Wild Ones, Vol. 1 (Wild Ones, #1)",Kiyo Fujiwara,5.000000000000001
+34620,3,5779,Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers,"Geoffrey A. Moore, Regis McKenna",5.000000000000001
+34620,4,7937,باب الخروج: رسالة علي المفعمة ببهجة غير متوقعة,عزالدين شكري فشير,5.000000000000001
+34620,5,7284,Sweethearts,Sara Zarr,5.000000000000001
+34620,6,9296,The Drama of the Gifted Child: The Search for the True Self,"Alice  Miller, Ruth Ward",5.000000000000001
+34620,7,3882,"The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future",Chris Guillebeau,5.000000000000001
+34620,8,9884,Горе от ума,"Aleksandr Griboyedov, Александр Сергеевич Грибоедов",5.000000000000001
+34620,9,8993,Sometimes It Happens,Lauren Barnholdt,5.000000000000001
+34620,10,7191,Pretty Little Liars (TV Series),Lambert M. Surhone,5.000000000000001
+8722,1,5111,Bossman,Vi Keeland,5.0
+8722,2,9674,After Anna,Alex Lake,5.0
+8722,3,9108,"Taking Shots (Assassins, #1)",Toni Aleo,4.80660557930395
+8722,4,9445,بضع ساعات في يوم ما,محمد صادق,4.687841533251795
+8722,5,9829,طه الغريب,محمد صادق,4.653677741323219
+8722,6,9412,"Bound by Honor (Born in Blood Mafia Chronicles, #1)",Cora Reilly,4.6383217628097455
+8722,7,8383,A Wrinkle in Time: The Graphic Novel,"Hope Larson, Madeleine L'Engle",4.633399662201482
+8722,8,7256,CyberStorm,Matthew Mather,4.628578593238068
+8722,9,8812,Maitreyi,Mircea Eliade,4.607237720132017
+8722,10,9053,"The Royal Ranger (Ranger's Apprentice, #12)",John Flanagan,4.6058630627121815
+28619,1,5602,"After We Collided (After, #2)",Anna Todd,5.000000000000001
+28619,2,9109,"Sweet Addiction (Sweet Addiction, #1)",J.  Daniels,5.000000000000001
+28619,3,7590,Choosing to SEE,"Mary Beth Chapman, Steven Curtis Chapman",5.000000000000001
+28619,4,8967,"Promised (One Night, #1)",Jodi Ellen Malpas,5.000000000000001
+28619,5,6930,"Reaper's Legacy (Reapers MC, #2)",Joanna Wylde,5.000000000000001
+28619,6,9387,"Foreplay (The Ivy Chronicles, #1)",Sophie Jordan,5.000000000000001
+28619,7,9898,"Spark (Elemental, #2)",Brigid Kemmerer,5.000000000000001
+28619,8,7221,"Eeny Meeny (Helen Grace, #1)",M.J. Arlidge,5.000000000000001
+28619,9,8144,Hidden (Bone Secrets. #1),Kendra Elliot,5.000000000000001
+28619,10,8657,"Breakable (Contours of the Heart, #2)",Tammara Webber,5.000000000000001
+38242,1,2779,"All In (The Blackstone Affair, #2)",Raine Miller,5.000000000000002
+38242,2,9886,"13 Gifts (Willow Falls, #3)",Wendy Mass,5.000000000000001
+38242,3,9945,"Rock Bottom (Tristan & Danika, #2)",R.K. Lilley,5.000000000000001
+38242,4,8712,"Old School (Diary of a Wimpy Kid, #10)",Jeff Kinney,5.000000000000001
+38242,5,5710,"Twice Tempted (Night Prince, #2)",Jeaniene Frost,5.000000000000001
+38242,6,5706,حبيبتي بكماء,محمد السالم,5.000000000000001
+38242,7,5803,"Dance with a Vampire (Vampire Kisses, #4)",Ellen Schreiber,5.000000000000001
+38242,8,8794,"Once (Once, #1)",Morris Gleitzman,5.000000000000001
+38242,9,9771,Those Girls,Chevy Stevens,5.000000000000001
+38242,10,7381,"Beautiful Beginning (Beautiful Bastard, #3.5)",Christina Lauren,5.000000000000001
+48882,1,8336,ماهی سیاه کوچولو,Samad Behrangi,4.669866025516203
+48882,2,9858,هشت کتاب,سهراب سپهری,4.668142467111377
+48882,3,9857,Desolation Angels,"Jack Kerouac, Joyce Johnson",4.652707280035204
+48882,4,9934,Nourishing Traditions: The Cookbook That Challenges Politically Correct Nutrition and the Diet Dictocrats,Sally Fallon Morell,4.571280939667894
+48882,5,8911,"The Blood Mirror (Lightbringer, #4)",Brent Weeks,4.550959515336369
+48882,6,6160,عقاید یک دلقک,"Heinrich Böll, محمد اسماعیل‌زاده",4.548797166960074
+48882,7,9863,"The Stainless Steel Rat (Stainless Steel Rat, #4)",Harry Harrison,4.4865552402160205
+48882,8,4026,Judas Unchained,Peter F. Hamilton,4.466612581983637
+48882,9,5730,The Blind Owl,"Sadegh Hedayat, D.P. Costello",4.4537693136110414
+48882,10,9315,The King's Agent,Donna Russo Morin,4.445537899237294
+29895,1,9904,"Hard as It Gets (Hard Ink, #1)",Laura Kaye,5.0
+29895,2,8259,Graffiti World: Street Art from Five Continents,"Nicholas Ganz, Tristan Manco",5.0
+29895,3,8204,"The Unwanted Wife (Unwanted, #1)",Natasha Anders,5.0
+29895,4,9678,"Tempting the Player (Gamble Brothers, #2)","J. Lynn, Jennifer L. Armentrout",5.0
+29895,5,9380,"A Week to Be Wicked (Spindle Cove, #2)",Tessa Dare,5.0
+29895,6,9426,"Maid for the Billionaire (Legacy Collection, #1)",Ruth Cardello,5.0
+29895,7,5205,"The Stonekeeper's Curse (Amulet, #2)",Kazu Kibuishi,5.0
+29895,8,5272,"Until November (Until, #1)",Aurora Rose Reynolds,5.0
+29895,9,9167,"Where I Belong (Alabama Summer, #1)",J.  Daniels,5.0
+29895,10,9153,"If I Die (Soul Screamers, #5)",Rachel Vincent,5.0
+21114,1,8661,Through My Eyes,"Tim Tebow, Nathan Whitaker",5.000000000000001
+21114,2,9701,Lost Stars (Star Wars: Journey to the Force Awakens),Claudia Gray,5.000000000000001
+21114,3,8948,"Zita the Spacegirl (Zita the Spacegirl, #1)",Ben Hatke,5.0
+21114,4,8114,The Woman in the Dunes,"Kōbō Abe, E. Dale Saunders",5.0
+21114,5,5111,Bossman,Vi Keeland,5.0
+21114,6,5353,The Wimpy Kid Movie Diary (Diary of a Wimpy Kid),Jeff Kinney,5.0
+21114,7,4495,Do-It-Yourself Book (Diary of a Wimpy Kid),Jeff Kinney,4.999999999999999
+21114,8,9581,"Courageous (The Lost Fleet, #3)",Jack Campbell,4.999999999999999
+21114,9,9560,"Relentless (The Lost Fleet, #5)",Jack Campbell,4.999999999999999
+21114,10,4707,The Long Hard Road Out of Hell,"Marilyn Manson, Neil Strauss",4.999999999999999

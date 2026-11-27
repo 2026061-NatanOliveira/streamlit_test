@@ -1,0 +1,2 @@
+total_baskets,distinct_items,min_basket_size,average_basket_size,max_basket_size,items_without_label,items_with_label
+3346083,49677,1,10.11,145,10554,39123

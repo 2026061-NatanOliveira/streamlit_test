@@ -1,0 +1,3 @@
+Algorithm,Execution Time (seconds),Frequent Itemsets Found,Estimated Main Structure Size (bytes)
+Apriori,18.89,239,1003825032
+ECLAT,33.51,239,494969344
